@@ -1,10 +1,9 @@
-### Hi there 👋
+# Hi, I'm Alfi 👋🏾 
 
-<!--
-**alfiramdhan/alfiramdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a former sales administrator and client service representative. now looking to switch careers in data analysis
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning data analyst including SQL, Python in some course platform
-- 👯 I’m looking to collaborate on data
+## Find me around the web 🌎: 
+- Portfolio on <a href="https://medium.com/@alfiramdhan"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/alfianaramdhan/">LinkedIn</a> 💼
 
