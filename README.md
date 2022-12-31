@@ -1,6 +1,6 @@
 # Hi, I'm Alfi 👋🏾 
 
-I am a former sales administration and support officer with 4.5 years of work experience who is currently committed to dive deeper into the field of data analyst.
+I am a former sales administrator and support officer with 4.5 years of work experience who is currently committed to dive deeper into the field of data analyst.
 
 Since Covid-19 affected the business of the company I previously worked for, I felt the need to improve my skills and choose a more sustainable career online. During the search process, I found an interest in data analysts, because in my previous college final project I did research related to data processing analysis and in my previous work I also dealt with a lot of data, I want to explore how I can provide more value to business through data. Therefore, this prompted me to take several online data analyst courses including the RevoU, DQLab and MySkill mini courses.
 
